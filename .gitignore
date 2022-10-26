@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Deepnote Env Folders/Files
+.deepnote/
+init.ipynb

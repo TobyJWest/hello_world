@@ -1,2 +1,2 @@
-# hello_world
+# Hello World
 hello world challenge 1
